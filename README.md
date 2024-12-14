@@ -40,14 +40,8 @@ This project is a web application that allows users to record, upload, and manag
      ```
 
 3. **Environment Variables**:
-   Create a `.env` file in the `backend` directory with the following variables:
-   ```plaintext
-   DB_CONNECTION=<your_mongodb_connection_string>
-   ASSEMBLY_AI_API_KEY=<your_assemblyai_api_key>
-   COHERE_API_KEY=<your_cohere_api_key>
-   DELETE_PASSWORD=<your_secure_password>
-   ```
-
+   Create a `.env` file in the `backend` directory
+   
 ## Usage
 
 1. **Start the Backend Server**:
